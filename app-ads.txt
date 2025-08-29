@@ -1,0 +1,5 @@
+# app-ads.txt file for Google AdMob verification
+# This file is required for app monetization compliance
+# Publisher ID: pub-7755621074003955 (Minish App)
+
+google.com, pub-7755621074003955, DIRECT, f08c47fec0942fa0
